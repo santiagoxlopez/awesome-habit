@@ -32,6 +32,7 @@
 - **Fabulous** - Science-based app for improving fitness, health, and productivity.
 - **Habits** - An open-source, minimalist app focused on ease of use.
 - **Habit Tracker (HabitNow)** - Detailed scheduling and reminders for habits.
+- **[Trider](https://myhabits.in)** - AI habit tracker with Instagram DM reminders, an AI coach that knows your routines, and Crisis Mode for bad days. Free with zero ads.
 - **Habit Challenge** - Customizable reminders and insights to help build and maintain habits.
 - **Remente - Self Improvement** - Integrates habit tracking with broader goals for personal growth.
 
