@@ -39,6 +39,7 @@
 
 - **Habitify** - Minimalist tracker that works across all devices.
 - **TickTick** - Combines task management and habit tracking.
+- **[DayDayUp](https://ordinarymantrying.com/tools/daydayup.html)** - Minimalist daily habit tracker that runs entirely in the browser. No signup, no app install — just open and track. Streaks and a clean daily grid view.
 
 ## Books
 
