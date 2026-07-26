@@ -39,6 +39,7 @@
 
 - **Habitify** - Minimalist tracker that works across all devices.
 - **TickTick** - Combines task management and habit tracking.
+- **[Push or Pay](https://pushorpay.netlify.app)** - Free two-person accountability game: invite a partner to watch your streak, miss a day and they get to roast you (or claim a joke penalty). Built for couples/friends who want a habit tracker with actual social stakes, not just a solo checklist.
 
 ## Books
 
