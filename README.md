@@ -21,6 +21,7 @@
 - **[Coach.me - Instant Coaching](https://productivity.directory/coach-me)** - Combines tracking with access to coaching for increased accountability.
 - **[Done](https://productivity.directory/done)** - Tracks habits daily, weekly, or monthly, adaptable for multiple times a day.
 - **[Tally](https://productivity.directory/tally)** - Extremely flexible tracking, suitable for any quantifiable habit.
+- **[Ripple](https://ripplefocus.github.io/en/ios/)** - Helps build a less-phone habit with Screen Time based app limits on iOS 16+, a 15 minute cooldown before rules can be loosened, and an uninstall lock. Also useful for parents. Free, no ads, all data stays on the device.
 
 ### Android
 
@@ -34,6 +35,7 @@
 - **Habit Tracker (HabitNow)** - Detailed scheduling and reminders for habits.
 - **Habit Challenge** - Customizable reminders and insights to help build and maintain habits.
 - **Remente - Self Improvement** - Integrates habit tracking with broader goals for personal growth.
+- **[Ripple](https://ripplefocus.github.io/en/)** - Helps build a less-phone habit by limiting distracting apps, with a 15 minute cooldown before rules can be loosened, separate blocking of YouTube Shorts and Instagram Reels, and an uninstall lock that works without a PC. Free, no ads, works offline.
 
 ### Web
 
